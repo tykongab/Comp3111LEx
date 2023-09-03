@@ -8,3 +8,4 @@ This is the lab assignment for COMP 3111 Lab 1.
 ## Screenshot
 
 Here's the screenshot of my 1st lab project in IntelliJ:
+![Lab1 screenshot](lab1_screenshot.png)
